@@ -1,0 +1,7 @@
+create new react app
+
+1. create new folder
+2. new terminal and -->npm create vite@latest Array-of-object
+3. cd Array-of-object
+4. npm install
+5. npm run dev
